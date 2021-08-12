@@ -13,3 +13,8 @@ $ git clone https://github.com/Zaeni123/Script_login
 $ cd Script_login
 
 $ python2 login.py
+
+#Username : zendot
+
+#Password : 123
+
