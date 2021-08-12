@@ -1,4 +1,4 @@
-# Command(perintah)
+# Perintah
 
 $ apt update && apt upgrade
 
